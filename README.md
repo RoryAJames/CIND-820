@@ -12,4 +12,4 @@ Part 2: Working With Other Geospatial Data Sets
 
 Part 3: Exploratory Data Analysis
 
-A comprehensive breakdown of all the steps performed can be found in the complete [notebook](https://github.com/RoryAJames/CIND-820/blob/ed8690e7bc34b19a9564bd5b78fcd00e57ef7e71/CIND.ipynb).
+A comprehensive breakdown of all the steps performed can be found in the complete [notebook](https://github.com/RoryAJames/CIND-820/blob/5708e73fb30451b92376eeab8ef59aff0448643e/CIND.ipynb)
